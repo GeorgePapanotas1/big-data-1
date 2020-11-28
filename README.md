@@ -1,5 +1,5 @@
 # big-data-1
-Για να τρέξει το project πρεπει: 
+Για να τρέξει το project πρεπει:   
 Τα txt να μπούν στο *opt/spark* directory.   
 Στη συνέχεια, στο home directory τρέχουμε: 
 ### mkdir project-python
